@@ -1,7 +1,7 @@
 
 <h4> 😍 Estou Feliz de ter você aqui!</h4>
 <ul>
-  <li>👋 Olá, sou @ptrkisdev</li>
+  <li>👋 Olá, sou @ptrktodev</li>
   <li>👀 Estou interessado em Front-End.</li>
   <li>🌱 Atualmente estou aprendendo HTML, CSS e JS</li>
   <li>💞️ Procuro colaborar em Projetos Junior Dev's. </li>
