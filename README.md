@@ -3,7 +3,7 @@
 <ul>
   <li>👋 Olá, sou @ptrktodev.</li>
   <li>👀 Estou interessado em Front-End.</li>
-  <li>🌱 Atualmente estou aprendendo HTML, CSS e JS</li>
+  <li>🌱 Atualmente estou aprendendo HTML e CSS</li>
   <li>💞️ Procuro colaborar em Projetos Junior Dev's. </li>
   <li>📫 Contate-me no E-mail: ptrk2511@gmail.com. </li>
 </ul>
