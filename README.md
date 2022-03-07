@@ -9,8 +9,8 @@
 </ul>
 
 <div align="center">
-    <a href="https://github.com/ptrkisdev">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ptrkisdev&show_icons=true&theme=dark&include_all_commits=true&count_private=true"></a>
+    <a href="https://github.com/ptrktodev">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ptrktodev&show_icons=true&theme=dark&include_all_commits=true&count_private=true"></a>
 </div>
 
 <div style="display: inline_block"><br>
