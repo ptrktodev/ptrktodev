@@ -21,5 +21,5 @@
  #
  <div>
     <a href = "mailto:patrickrodriguez2002@outlook.com" target="_blank"><img height="26" width="30" src="[https://img.shields.io/badge/-Gmail-ff0512?style=for-the-badge&logo=gmail&logoColor=white](https://logospng.org/download/microsoft-outlook/logo-microsoft-outlook-1024.png)" destino ="_blank"></a>
-    <a href="https://www.linkedin.com/in/patrick-rodriguez-521b5a23a/" target="_blank"><img height="26" width="30" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/linkedin_logo_icon_170234.png" target="_blank"></a>
+    <a href="https://www.linkedin.com/in/patrick-rodriguez-521b5a23a/" target="_blank"><img height="26" width="30" src="https://logospng.org/download/microsoft-outlook/logo-microsoft-outlook-1024.png" target="_blank"></a>
 </div>
