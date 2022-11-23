@@ -20,6 +20,6 @@
  
  #
  <div>
-    <a href = "mailto:patrickrodriguez2002@outlook.com" target="_blank"><img height="26" width="30" src="https://logospng.org/download/microsoft-outlook/logo-microsoft-outlook-1024.png" destino ="_blank"></a>
-    <a href="https://www.linkedin.com/in/patrick-rodriguez-521b5a23a/" target="_blank"><img height="26" width="30" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" target="_blank"></a>
+    <a href = "mailto:patrickrodriguez2002@outlook.com" target="_blank"><img height="26" width="30" src="https://logospng.org/download/microsoft-outlook/logo-microsoft-outlook-1024.png"></a>
+    <a href="https://www.linkedin.com/in/patrick-rodriguez-521b5a23a/" target="_blank"><img height="26" width="30" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"></a>
 </div>
