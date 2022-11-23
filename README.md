@@ -15,6 +15,7 @@
 
 <div style="display: inline_block"><br>
 <img align="center" alt="ptrk-HTML" height="40" width="70" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/CSS3_and_HTML5_logos_and_wordmarks.svg/1200px-CSS3_and_HTML5_logos_and_wordmarks.svg.png">
+ <img align="center" alt="ptrk-HTML" height="40" width="70" src="https://www.demorodavel.com/wp-content/uploads/2019/09/1200px-Python-logo-notext.svg_.png">
 <img align="right" alt="ptrk-pic" height="150" style="border-radius:50px;" src="https://media1.giphy.com/media/z8n8dWgQ0mgEIyzlmV/giphy.gif?cid=ecf05e47l72htkhlzaklsl4ga7zev2kokdmmnbhb5k9bzp2s&rid=giphy.gif&ct=g">
 </div>
  
