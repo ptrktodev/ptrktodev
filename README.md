@@ -2,10 +2,10 @@
 <h4> 😍 Estou Feliz de ter você aqui!</h4>
 <ul>
   <li>👋 Olá, sou @ptrktodev.</li>
-  <li>👀 Estou interessado em Front-End.</li>
-  <li>🌱 Atualmente estou aprendendo HTML e CSS.</li>
+  <li>👀 Estou interessado em Tecnologias.</li>
+  <li>🌱 Atualmente estou aprendendo Python e suas utilizações.</li>
   <li>💞️ Procuro colaborar em Projetos Junior Dev's. </li>
-  <li>📫 Contate-me no E-mail: ptrk2511@gmail.com. </li>
+  <li>📫 Contate-me no E-mail: patrickrodriguez2002@outlook.com </li>
 </ul>
 
 <div align="center">
