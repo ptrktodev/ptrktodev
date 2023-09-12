@@ -3,7 +3,7 @@
 <ul>
   <li>👋 Olá, sou @ptrktodev.</li>
   <li>👀 Estou interessado em Tecnologias.</li>
-  <li>🌱 Atualmente estou aprendendo JavaScript e NodeJS juntamente com suas utilizações.</li>
+  <li>🌱 Atualmente estou aprendendo Python com ênfase em Data Science.</li>
   <li>💞️ Procuro me desenvolver e iniciar como Dev Junior. </li>
   <li>📫 Contate-me no E-mail: patrickrodriguez2002@outlook.com </li>
 </ul>
