@@ -19,10 +19,10 @@
 
 <p align="left">
   <a href="patrickrodriguez2002@outlook" alt="Outlook" target="_blank">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=wagnergoulart.itj@gmail.com" /></a>
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=patrickrodriguez2002@outlook" /></a>
 
-  <a href="https://www.linkedin.com/in/wagner-goulart" alt="LinkedIn" target="_blank">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wagner-goulart" /></a>
+  <a href="https://www.linkedin.com/in/ptrktodev/" alt="LinkedIn" target="_blank">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=[://www.linkedin.com/in/wagner-goulart](https://www.linkedin.com/in/ptrktodev/)" /></a>
 </p>
 <hr>
 
