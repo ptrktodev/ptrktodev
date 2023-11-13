@@ -9,7 +9,7 @@
 <p align="left">
  <h1>Tecnologias: </h1>
     <a href="https://skillicons.dev">
-     <img src="https://skillicons.dev/icons?i=git,html,css,javascript,react,angular,nodejs" />
+     <img src="https://skillicons.dev/icons?i=html,css,javascript,react," />
   </a>
 </p>
 
