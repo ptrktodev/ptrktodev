@@ -1,34 +1,31 @@
+## Olá 👋
 
-<h4> 😍 Estou Feliz de ter você aqui!</h4>
-<ul>
-  <li>👋 Olá, sou @ptrktodev.</li>
-  <li>👀 Estou interessado em Tecnologias.</li>
-  <li>🌱 Atualmente estou aprendendo Python com ênfase em Data Science.</li>
-  <li>💞️ Procuro me desenvolver e iniciar como Dev Junior. </li>
-  <li>📫 Contate-me no E-mail: patrickrodriguez2002@outlook.com </li>
-</ul>
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
 
-<div align="center">
-    <a href="https://github.com/ptrktodev">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ptrktodev&show_icons=true&theme=dark&include_all_commits=true&count_private=true"></a>
-</div>
+<p align="left"> 
+ Me chamo Wagener Goulart, estudante de desenvolimento Web, sempre buscando novas conhecimentos e aprendizados.
+</p>
 
-<div style="display: inline_block"><br>
-<img align="center" alt="ptrk-HTML" height="40" width="70" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/CSS3_and_HTML5_logos_and_wordmarks.svg/1200px-CSS3_and_HTML5_logos_and_wordmarks.svg.png">
-  
-<img align="center" alt="ptrk-HTML" height="40" width="40" src="https://logospng.org/download/javascript/logo-javascript-1024.png">  
-  
-<img align="center" alt="ptrk-HTML" height="40" width="40" src="https://www.demorodavel.com/wp-content/uploads/2019/09/1200px-Python-logo-notext.svg_.png">
- 
-<img align="center" alt="ptrk-HTML" height="40" width="40" src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png">  
- 
-  
-<img align="right" alt="ptrk-pic" height="150" style="border-radius:50px;" src="https://media1.giphy.com/media/z8n8dWgQ0mgEIyzlmV/giphy.gif?cid=ecf05e47l72htkhlzaklsl4ga7zev2kokdmmnbhb5k9bzp2s&rid=giphy.gif&ct=g">
-  
-</div>
- 
- #
- <div>
-    <a href = "mailto:patrickrodriguez2002@outlook.com" target="_blank"><img height="26" width="30" src="https://logospng.org/download/microsoft-outlook/logo-microsoft-outlook-1024.png"></a>
-    <a href="https://linkedin.com/in/ptrktodev" target="_blank"><img height="26" width="30" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"></a>
-</div>
+<p align="left">
+ <h1>Tecnologias: </h1>
+    <a href="https://skillicons.dev">
+     <img src="https://skillicons.dev/icons?i=git,html,css,javascript,react,angular,nodejs" />
+  </a>
+</p>
+
+<p align="left">
+  <h2>Fique a vontade para entrar em contato: ⤵️</h2>
+</p>
+
+<p align="left">
+  <a href="wagnergoulart.itj@gmail.com" alt="Gmail" target="_blank">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=wagnergoulart.itj@gmail.com" /></a>
+
+  <a href="https://www.linkedin.com/in/wagner-goulart" alt="LinkedIn" target="_blank">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wagner-goulart" /></a>
+</p>
+<hr>
+
+[![card](https://github-readme-stats.vercel.app/api?username=Wagner-Goulart&theme=tokyonight&show_icons=true&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=Wagner-Goulart&layout=donut&theme=tokyonight&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
