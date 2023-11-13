@@ -3,7 +3,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
- Me chamo Wagener Goulart, estudante de desenvolimento Web, sempre buscando novas conhecimentos e aprendizados.
+ Me chamo Patrick Rodriguez, estudante de desenvolimento Web, sempre buscando novas conhecimentos e aprendizados.
 </p>
 
 <p align="left">
@@ -18,7 +18,7 @@
 </p>
 
 <p align="left">
-  <a href="wagnergoulart.itj@gmail.com" alt="Gmail" target="_blank">
+  <a href="patrickrodriguez2002@outlook" alt="Outlook" target="_blank">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=wagnergoulart.itj@gmail.com" /></a>
 
   <a href="https://www.linkedin.com/in/wagner-goulart" alt="LinkedIn" target="_blank">
