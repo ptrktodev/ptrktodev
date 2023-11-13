@@ -26,6 +26,3 @@
 </p>
 <hr>
 
-[![card](https://github-readme-stats.vercel.app/api?username=Wagner-Goulart&theme=tokyonight&show_icons=true&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
-
-[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=Wagner-Goulart&layout=donut&theme=tokyonight&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
