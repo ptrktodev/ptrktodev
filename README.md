@@ -14,7 +14,7 @@
 </p>
 
 <p align="left">
-  <h2>Fique a vontade para entrar em contato: ⤵️</h2>
+  <h2>Fique a vontade para entrar em contato:</h2>
 </p>
 
 <p align="left">
