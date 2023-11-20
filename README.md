@@ -19,7 +19,7 @@
 
 <p align="left">
   <a href="patrickrodriguez2002@outlook" alt="Outlook" target="_blank">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=patrickrodriguez2002@outlook" /></a>
+  <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white&link=patrickrodriguez2002@outlook" /></a>
 
   <a href="https://www.linkedin.com/in/ptrktodev/" alt="LinkedIn" target="_blank">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=[://www.linkedin.com/in/wagner-goulart](https://www.linkedin.com/in/ptrktodev/)" /></a>
