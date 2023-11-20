@@ -18,11 +18,14 @@
 </p>
 
 <p align="left">
-  <a href="patrickrodriguez2002@outlook" alt="Outlook" target="_blank">
-  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white&link=patrickrodriguez2002@outlook" /></a>
+  <a href="mailto:patrickrodriguez2002@outlook.com" target="_blank">
+    <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Outlook" />
+  </a>
 
-  <a href="https://www.linkedin.com/in/ptrktodev/" alt="LinkedIn" target="_blank">
-  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=[://www.linkedin.com/in/wagner-goulart](https://www.linkedin.com/in/ptrktodev/)" /></a>
+  <a href="https://www.linkedin.com/in/ptrktodev/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
 </p>
+
 <hr>
 
