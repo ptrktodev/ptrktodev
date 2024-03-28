@@ -11,6 +11,9 @@
     <a href="https://skillicons.dev">
      <img src="https://icon.icepanel.io/Technology/svg/Python.svg" width="50" height="55" />
      <img src="https://icon.icepanel.io/Technology/svg/Pandas.svg" width="50" height="55"/>
+     <img src="https://icon.icepanel.io/Technology/svg/Jupyter.svg" width="50" height="55" />
+     <img src="https://icon.icepanel.io/Technology/svg/NumPy.svg" width="50" height="55" />
+     <img src="https://icon.icepanel.io/Technology/svg/Python.svg" width="50" height="55" />
   </a>
 </p>
 
