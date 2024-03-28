@@ -9,7 +9,7 @@
 <p align="left">
  <h1>Tecnologias: </h1>
     <a href="https://skillicons.dev">
-     <img src="https://skillicons.dev/icons?i=python" width="80" height="55" />
+     <img src="https://skillicons.dev/icons?i=python" width="30" height="55" />
      <img src="https://icon.icepanel.io/Technology/svg/Pandas.svg" width="80" height="55"/>
   </a>
 </p>
