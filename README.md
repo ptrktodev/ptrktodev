@@ -10,7 +10,7 @@
  <h1>Tecnologias: </h1>
     <a href="https://skillicons.dev">
      <img src="https://skillicons.dev/icons?i=python" />
-     <img src="https://icon.icepanel.io/Technology/svg/Pandas.svg" width="100" height="75"/>
+     <img src="https://icon.icepanel.io/Technology/svg/Pandas.svg" width="80" height="75"/>
   </a>
 </p>
 
