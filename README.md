@@ -15,6 +15,7 @@
   <img src="https://icon.icepanel.io/Technology/svg/NumPy.svg" width="50" height="55" />
   <img src="https://icon.icepanel.io/Technology/svg/Python.svg" width="50" height="55" />
    <img src="https://icon.icepanel.io/Technology/svg/scikit-learn.svg" width="50" height="55" />
+   <img src="https://icon.icepanel.io/Technology/svg/Visual-Studio-Code-%28VS-Code%29.svg" width="50" height="55" />
   </div>
 </p>
 
