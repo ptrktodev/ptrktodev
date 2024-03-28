@@ -8,13 +8,13 @@
 
 <p align="left">
  <h1>Tecnologias: </h1>
-    <a>
-     <img src="https://icon.icepanel.io/Technology/svg/Python.svg" width="50" height="55" />
-     <img src="https://icon.icepanel.io/Technology/svg/Pandas.svg" width="50" height="55"/>
-     <img src="https://icon.icepanel.io/Technology/svg/Jupyter.svg" width="50" height="55" />
-     <img src="https://icon.icepanel.io/Technology/svg/NumPy.svg" width="50" height="55" />
-     <img src="https://icon.icepanel.io/Technology/svg/Python.svg" width="50" height="55" />
-  </a>
+  <div class="container">
+  <img src="https://icon.icepanel.io/Technology/svg/Python.svg" width="50" height="55" />
+  <img src="https://icon.icepanel.io/Technology/svg/Pandas.svg" width="50" height="55"/>
+  <img src="https://icon.icepanel.io/Technology/svg/Jupyter.svg" width="50" height="55" />
+  <img src="https://icon.icepanel.io/Technology/svg/NumPy.svg" width="50" height="55" />
+  <img src="https://icon.icepanel.io/Technology/svg/Python.svg" width="50" height="55" />
+  </div>
 </p>
 
 <p align="left">
