@@ -9,7 +9,8 @@
 <p align="left">
  <h1>Tecnologias: </h1>
     <a href="https://skillicons.dev">
-     <img src="https://skillicons.dev/icons?i=figma,html,css,javascript,react,python" />
+     <img src="https://skillicons.dev/icons?i=python" />
+     <img src="https://skillicons.dev/icons?i=python" />
   </a>
 </p>
 
