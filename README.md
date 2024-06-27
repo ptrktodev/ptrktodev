@@ -13,6 +13,7 @@
   <img src="https://icon.icepanel.io/Technology/svg/Pandas.svg" width="50" height="55"/>
   <img src="https://icon.icepanel.io/Technology/svg/Jupyter.svg" width="50" height="55" />
    <img src="https://icon.icepanel.io/Technology/svg/Visual-Studio-Code-%28VS-Code%29.svg" width="50" height="55" />
+   <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" width="50" height="55" />
   </div>
 </p>
 
