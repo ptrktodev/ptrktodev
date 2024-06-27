@@ -3,7 +3,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
- Me chamo Patrick Rodriguez, estou estudando Ciência de Dados e Machine Learning, sempre buscando novas conhecimentos e aprendizados.
+ Me chamo Patrick Rodriguez!
 </p>
 
 <p align="left">
