@@ -10,10 +10,9 @@
  <h1>Techs: </h1>
   <div class="container">
   <img src="https://cdn.prod.website-files.com/6092ed75cac3156e208ac5e9/654e7cfeb08ff500334a8d24_Python-icon.png" width="50" height="55" />
-  <img src="https://icon.icepanel.io/Technology/svg/Pandas.svg" width="50" height="55"/>
-  <img src="https://icon.icepanel.io/Technology/svg/Jupyter.svg" width="50" height="55" />
-   <img src="https://icon.icepanel.io/Technology/svg/Visual-Studio-Code-%28VS-Code%29.svg" width="50" height="55" />
-   <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" width="50" height="55" />
+  <img src="https://cdn.prod.website-files.com/6092ed75cac3156e208ac5e9/63fed775b65dd109a871fff7_Pandas.svg" width="50" height="55"/>
+  <img src="https://cdn.prod.website-files.com/6092ed75cac3156e208ac5e9/63fed778a75a04ea9983ed8b_USER%20STORY.svg" width="50" height="55" />
+   <img src="https://cdn.prod.website-files.com/6092ed75cac3156e208ac5e9/63e285604d2c7f733846e6c5_VS%20CODE.svg" width="50" height="55" />
   </div>
 </p>
 
